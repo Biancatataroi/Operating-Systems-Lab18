@@ -1,0 +1,8 @@
+*.o
+*.d
+*.asm
+*.sym
+fs.img
+kernel/kernel
+kernel/kernel.*
+user/_*
